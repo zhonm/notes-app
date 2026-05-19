@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "54885918445",
+    "project_id": "notes-app-flutter-e406f",
+    "storage_bucket": "notes-app-flutter-e406f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54885918445:android:88f6851af6379e78018ee4",
+        "android_client_info": {
+          "package_name": "com.example.todo_app_hive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLZy2y55tG5x8-sSzAoJOoQNx9A6POV-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
