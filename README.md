@@ -10,15 +10,16 @@
 - Save Note
 - View Notes
 - Light Theme/Dark Theme
+- Firebase Integration
 
-## Upcomming Features
+## Upcoming Features
 
 - You will be able to save Notes Locally
 - You will be able to save Notes on Server
 - Login/SignUp
 - Few Other Changes
 
-## Orignal UI
+## Original UI
 [Link](https://dribbble.com/shots/20017643-GoodNotes-Collaborative-Notes-Mobile-App)
 
 
